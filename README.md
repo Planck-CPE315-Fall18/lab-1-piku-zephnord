@@ -3,5 +3,5 @@
 Name:   Zeph Nord
 Status: Complete
 
-To Compile: gcc -o piku piku.s
+To Compile: make
 To Run:     ./piku
